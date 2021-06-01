@@ -13,4 +13,3 @@ switch($optionId){
   default:
     $optionText = "Opción no disponible";
     break;
-}

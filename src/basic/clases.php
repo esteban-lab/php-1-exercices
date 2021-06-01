@@ -13,6 +13,7 @@ class Archer {
     $this->lifePoints = 13;
   }
 
+
   public function getName(): string {
     return $this->name;
   }
